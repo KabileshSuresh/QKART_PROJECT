@@ -1,1 +1,1 @@
-# QKART_PROJECT
+This repository showcases the configuration, build structure, and execution results for the QKART project completed during my time at Crio.Do. To uphold Crio’s academic integrity policies and protect proprietary learning content, the core source code and test logic are maintained in a private repository. For official verification of my skills, project milestones, and technical achievements, please visit my Crio Portfolio at https://www.crio.do/learn/portfolio/kabileshs-joy/.
